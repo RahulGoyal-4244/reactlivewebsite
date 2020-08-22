@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactlivewebsite/static/css/main.5972fe02.chunk.css",
-    "main.js": "/reactlivewebsite/static/js/main.6f32a3e1.chunk.js",
-    "main.js.map": "/reactlivewebsite/static/js/main.6f32a3e1.chunk.js.map",
+    "main.css": "/reactlivewebsite/static/css/main.253b84a4.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.6cd2bfe4.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.6cd2bfe4.chunk.js.map",
     "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.ecdc915d.js",
     "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.ecdc915d.js.map",
     "static/js/2.64f5920a.chunk.js": "/reactlivewebsite/static/js/2.64f5920a.chunk.js",
     "static/js/2.64f5920a.chunk.js.map": "/reactlivewebsite/static/js/2.64f5920a.chunk.js.map",
     "index.html": "/reactlivewebsite/index.html",
-    "precache-manifest.6b3000e31766162bf481fe68e0602e18.js": "/reactlivewebsite/precache-manifest.6b3000e31766162bf481fe68e0602e18.js",
+    "precache-manifest.cc2b44fba538820dd306e687c666cab2.js": "/reactlivewebsite/precache-manifest.cc2b44fba538820dd306e687c666cab2.js",
     "service-worker.js": "/reactlivewebsite/service-worker.js",
-    "static/css/main.5972fe02.chunk.css.map": "/reactlivewebsite/static/css/main.5972fe02.chunk.css.map",
+    "static/css/main.253b84a4.chunk.css.map": "/reactlivewebsite/static/css/main.253b84a4.chunk.css.map",
     "static/js/2.64f5920a.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.64f5920a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ecdc915d.js",
     "static/js/2.64f5920a.chunk.js",
-    "static/css/main.5972fe02.chunk.css",
-    "static/js/main.6f32a3e1.chunk.js"
+    "static/css/main.253b84a4.chunk.css",
+    "static/js/main.6cd2bfe4.chunk.js"
   ]
 }
