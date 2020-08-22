@@ -22,10 +22,12 @@ function Welcome() {
 		cssstyle.color="black";
 	}
 	return (
-		<div>
-			<h1> Hello , <span style={ cssstyle }> {grettng} <DigitalClock /> </span> </h1>
-			
+		<>
+		<h1> Welcome to my first React Application.</h1>
+		<div className="div_css">
+		<h2 className="h1_css"> Hello , <span style={ cssstyle }> {grettng} </span> <DigitalClock /></h2>
 		</div>
+		</>
 	)
 }
 
