@@ -20,7 +20,7 @@ function Welcome() {
 	}
 	return (
 		<div>
-			<h1> Hello , <span style={ cssstyle }> {grettng} <DigitalClock /> </span> </h1> <br/>
+			<h1> Hello , <span style={ cssstyle }> {grettng} <DigitalClock /> </span> </h1>
 			
 		</div>
 	)
