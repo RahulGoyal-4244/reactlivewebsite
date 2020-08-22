@@ -11,9 +11,12 @@ function Welcome() {
 	if (currtime >= 1 && currtime <12) {
 		grettng="Good Morning";
 		cssstyle.color="green";
-	}else if (currtime >=12 && currtime < 20) {
+	}else if (currtime >=12 && currtime < 17) {
 		grettng="Good Afternoon";
 		cssstyle.color="orange";
+	}else if (currtime >=17 && currtime < 21) {
+		grettng="Good Evening";
+		cssstyle.color="skyblue";
 	}else{
 		grettng="Good Night";
 		cssstyle.color="black";
